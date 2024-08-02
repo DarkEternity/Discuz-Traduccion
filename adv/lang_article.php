@@ -14,8 +14,8 @@ if(!defined('IN_DISCUZ')) {
 $lang = array
 (
 	'article_name' => '門戶 文章廣告',
-	'article_desc' => '展現方式: 文章廣告顯示於文章頁面，分為內容區域環繞廣告和相關閱讀上方廣告 2 種。',
-	'article_position' => '投放位置',
+	'article_desc' => 'Método de visualización: los anuncios de artículos se muestran en las páginas del artículo y se dividen en dos tipos: anuncios que rodean el área de contenido y anuncios sobre lecturas relacionadas.',
+	'article_position' => 'Colocacion',
 	'article_position_comment' => '分為 3 個位置，其中相關閱讀上方廣告有 2 個緊鄰的顯示位置',
 	'article_position_float' => '內容區域環繞',
 	'article_position_up' => '相關閱讀上方(上)',
